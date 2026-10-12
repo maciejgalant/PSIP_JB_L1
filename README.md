@@ -1,4 +1,5 @@
-# PSIP_JB_L1
-- JAN - warszawski
+# PSIP\_JB\_L1
 
+* JAN - warszawski
+* Maciej - kutnowski
 
